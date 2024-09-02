@@ -1,4 +1,4 @@
-# Metrocar_funnel_analysis
+# Metrocar_Funnel_Analysis
 
 ## Objective:
 

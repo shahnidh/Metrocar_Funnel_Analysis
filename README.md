@@ -37,6 +37,6 @@ The funnel analysis of Metrocar revealed several key insights:
 ## Contact:
 
 - Name: Your Name
-- LinkedIn: [Your LinkedIn Profile](<https://www.linkedin.com/in/nidhishah01>)
+- LinkedIn: [My LinkedIn Profile](<https://www.linkedin.com/in/nidhishah01>)
 
 
